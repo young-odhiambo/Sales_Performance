@@ -61,7 +61,7 @@ These visualization helps identify patterns and anticipate future monthly revenu
 ## Key Insights
 Some of the key insight from the analysis include:
 - Asia generated hihest revenue among all the regions.
-- Revenue trends shows that June 2024 was the strongest sales month, generating highest monthly revenue.
+- Revenue trends shows that July 2024 was the strongest sales month, generating highest monthly revenue.
 - Service level performance (orders delivered within the 7-day target) was strongest in Africa, with Asia having the lowest.
 - Networking products generate the highest revenue among all the product categories.
 
