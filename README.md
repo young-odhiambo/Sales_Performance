@@ -34,6 +34,8 @@ The project follows a structured analytics workflow:
 
 # Dashboard Overview
 
+![image alt](https://github.com/young-odhiambo/Sales_Performance/blob/390c0993479c67ff4706af5d22a734c5eeaca8e8/Screenshot%20(162).png)
+
 ## Sales Performance Overview
 Key metrics include:
 - Total Revenue
