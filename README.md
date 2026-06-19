@@ -48,6 +48,8 @@ Key metrics include:
 This section provides a high level view of the sales performance.
 
 ## Sales Trend 
+![image alt](https://github.com/young-odhiambo/Sales_Performance/blob/81a378795460e5a62a829fc8c2daec37acea99f1/Screenshot%20(163).png)
+
 This section focuses on temporal analysis and predictive insights.
 
 Key Visualization include:
